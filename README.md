@@ -8,3 +8,7 @@ Features
 <li>They can then book tickets for their desired routes.</li>
 <li>Ticket Management: Customers can view their booked tickets and cancel reservations if needed.</li>
 <li>Admin Panel: Administrators have access to an admin panel where they can manage buses, schedules, fares, and view booking details.</li>
+Technologies Used
+<li>Core Java</li>
+<li>Swing components
+        such as Jbutton, JTextField, JLabel, JComboBox, JCalender, and JTextArea among many other Swing components</li>
