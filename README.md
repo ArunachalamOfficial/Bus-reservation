@@ -16,3 +16,13 @@ This is a simple Bus Reservation System designed to manage bus ticket booking op
 <li>Core Java</li>
 <li>Swing components
         such as Jbutton, JTextField, JLabel, JComboBox, JCalender, and JTextArea among many other Swing components</li>
+        
+Screenshots
+
+![image](https://github.com/ArunachalamOfficial/Bus-reservation/assets/160225333/80c879f6-d836-4aac-9209-2f9e17e34d9b)
+
+![image](https://github.com/ArunachalamOfficial/Bus-reservation/assets/160225333/4780570f-2f64-4b3f-8e3c-908285a42db5)
+
+![image](https://github.com/ArunachalamOfficial/Bus-reservation/assets/160225333/7d2bf7cc-bc95-4910-95b0-981e6c9fccc5)
+
+
