@@ -3,7 +3,7 @@
 
 This is a simple Bus Reservation System designed to manage bus ticket booking operations. The system allows users to search for available buses, view schedules, book tickets, and manage reservations. It provides an easy-to-use interface for both customers and administrators.
 
-<br>Features</br>
+# Features
 
 <li>User Authentication: Secure login and registration system for customers.</li>
 <li>Search and Booking: Users can search for available buses based on source, destination, date, and time. </li>
@@ -11,13 +11,13 @@ This is a simple Bus Reservation System designed to manage bus ticket booking op
 <li>Ticket Management: Customers can view their booked tickets and cancel reservations if needed.</li>
 <li>Admin Panel: Administrators have access to an admin panel where they can manage buses, schedules, fares, and view booking details.</li>
 
-<br>Technologies Used</br>
+# Technologies Used
 
 <li>Core Java</li>
 <li>Swing components
         such as Jbutton, JTextField, JLabel, JComboBox, JCalender, and JTextArea among many other Swing components</li>
         
-Screenshots
+# Screenshots
 
 ![image](https://github.com/ArunachalamOfficial/Bus-reservation/assets/160225333/80c879f6-d836-4aac-9209-2f9e17e34d9b)
 
