@@ -4,6 +4,7 @@ This is a simple Bus Reservation System designed to manage bus ticket booking op
 
 Features
 <li>User Authentication: Secure login and registration system for customers.</li>
-Search and Booking: Users can search for available buses based on source, destination, date, and time. They can then book tickets for their desired routes.
-Ticket Management: Customers can view their booked tickets and cancel reservations if needed.
-Admin Panel: Administrators have access to an admin panel where they can manage buses, schedules, fares, and view booking details.
+<li>Search and Booking: Users can search for available buses based on source, destination, date, and time. </li>
+<li>They can then book tickets for their desired routes.</li>
+<li>Ticket Management: Customers can view their booked tickets and cancel reservations if needed.</li>
+<li>Admin Panel: Administrators have access to an admin panel where they can manage buses, schedules, fares, and view booking details.</li>
