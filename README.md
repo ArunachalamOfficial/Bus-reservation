@@ -1,5 +1,5 @@
 # Bus-reservation
-<br>Overview</br>
+# Overview
 
 This is a simple Bus Reservation System designed to manage bus ticket booking operations. The system allows users to search for available buses, view schedules, book tickets, and manage reservations. It provides an easy-to-use interface for both customers and administrators.
 
